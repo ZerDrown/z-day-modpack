@@ -1,0 +1,13 @@
+name = "Serveur Modde"
+author = "emarq"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a8225897e9a4b07aff1ea7c4114a805fb49d3e0350af2f167fc6472836f3498d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
